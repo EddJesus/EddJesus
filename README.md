@@ -1,5 +1,5 @@
-## Hi, my name is Eduardo! ✌
-### 🔭 Currently working with React and Node
+## Hi, my name is Eduardo!
+### 🔭 Working with the stack React, NodeJs, Typescript for 2 years
 
 <div>
   <a href="https://github.com/EddJesus">
@@ -23,18 +23,8 @@
  
 </div>
 
-
-<!--
-**EddJesus/EddJesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--  I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I’m currently working on improve myself as a developer
+- 🌱 I’m currently learning Clean Architecture
+- 🤔 I’m looking for help with integration tests
+- 💬 Ask me about anything related to AWS
+- 📫 How to reach me: edusanto22@gmail.com / +5511944547545
