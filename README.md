@@ -1,5 +1,5 @@
-## Hi, my name is Eduardo!
-### 🔭 Working with the stack React, NodeJs, Typescript for 2 years
+## Hello, my name is Eduardo. Nice to see you here.
+### 🔭 Working with the stack React, NodeJs, Typescript for 2 years and AWS for 1 year
 
 <div>
   <a href="https://github.com/EddJesus">
