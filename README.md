@@ -23,7 +23,6 @@
  
 </div>
 
--  I’m currently working on improve myself as a developer
 - 🌱 I’m currently learning Clean Architecture
 - 🤔 I’m looking for help with integration tests
 - 💬 Ask me about anything related to AWS
