@@ -24,6 +24,6 @@
 </div>
 
 - 🌱 I’m currently learning Clean Architecture
-- 🤔 I’m looking for help with integration tests
+- 🤔 I’m looking for help with .NET core
 - 💬 Ask me about anything related to AWS
 - 📫 How to reach me: edusanto22@gmail.com / +5511944547545
