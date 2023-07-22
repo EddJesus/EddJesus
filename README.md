@@ -1,5 +1,5 @@
 ## Hello, my name is Eduardo. Nice to see you here.
-### 🔭 Working with the stack React, NodeJs, Typescript for 2 years and AWS for 1 year
+### 🔭 Working with the stack React, NodeJs, Typescript for 3 years and AWS for 2 year. Recently worked with .NET Core 6 and now working with Springboot Java 8
 
 <div>
   <a href="https://github.com/EddJesus">
@@ -23,7 +23,6 @@
  
 </div>
 
-- 🌱 I’m currently learning Clean Architecture
-- 🤔 I’m looking for help with .NET core
+- 🌱 I’m currently learning Multithread in Java
 - 💬 Ask me about anything related to AWS
 - 📫 How to reach me: edusanto22@gmail.com / +5511944547545
