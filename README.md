@@ -1,5 +1,5 @@
 ## Hello, my name is Eduardo. Nice to see you here.
-### 🔭 Working with the stack React, NodeJs, Typescript for 3 years and AWS for 2 year. Recently worked with .NET Core 6 and now working with Springboot Java 8
+### 🔭 Working with the stack React, NodeJs, Typescript for 5 years and AWS for 4 year. Most recently working with .NET Core for 2 years
 
 <div>
   <a href="https://github.com/EddJesus">
