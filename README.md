@@ -1,5 +1,6 @@
-## Hello, my name is Eduardo. Nice to see you here.
+## Hello, my name is Eduardo. Nice to see you here
 ### 🔭 Working with the stack React, NodeJs, Typescript for 5 years and AWS for 4 year. Most recently working with .NET Core for 2 years
+### Currently building micro-saas and learning about ML/AI
 
 <div>
   <a href="https://github.com/EddJesus">
