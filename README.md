@@ -23,6 +23,6 @@
  
 </div>
 
-- 🌱 I’m currently learning Multithread in Java
+- 🌱 I’m currently learning ML/AI
 - 💬 Ask me about anything related to AWS
 - 📫 How to reach me: edusanto22@gmail.com / +5511944547545
