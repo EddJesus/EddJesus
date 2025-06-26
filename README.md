@@ -1,7 +1,7 @@
 ## Hello, my name is Eduardo. Nice to see you here
-### 🔭 Working with the stack React, NodeJs, Typescript for 5 years and AWS for 4 year. Most recently working with .NET Core for 2 years
-### Currently building micro-saas
-### Currently learning ML/AI and advanced math
+### 🔭 Working with the stack React, NodeJs, Typescript for 5 years and AWS for 4 year. Most recently working with .NET Core for 3 years
+### Currently building a SaaS
+### Currently learning DDD and Advanced Math
 
 <div>
   <a href="https://github.com/EddJesus">
@@ -25,6 +25,6 @@
  
 </div>
 
-- 🌱 I’m currently learning ML/AI
+- 🌱 I’m currently learning DDD
 - 💬 Ask me about anything related to AWS
 - 📫 How to reach me: edusanto22@gmail.com / +5511944547545
