@@ -1,7 +1,7 @@
 ## Hello, my name is Eduardo. Nice to see you here
-### 🔭 Working with the stack React, NodeJs, Typescript for 5 years and AWS for 4 year. Most recently working with .NET Core for 3 years
+### 🔭 Working with the stack React, NodeJs, Typescript for 6 years and AWS for 5 year. Most recently working with .NET Core for 4 years
 ### Currently building a SaaS
-### Currently learning DDD and Advanced Math
+### Currently learning Performance Improvements
 
 <div>
   <a href="https://github.com/EddJesus">
