@@ -1,13 +1,8 @@
 ## Hello, my name is Eduardo. Nice to see you here
-### 🔭 Working with the stack React, NodeJs, Typescript for 6 years and AWS for 5 year. Most recently working with .NET Core for 4 years
+### 6 years as Developer
+### Working mainly with .NET, NodeJS and AWS 
 ### Currently building a SaaS
-### Currently learning Performance Improvements
-
-<div>
-  <a href="https://github.com/EddJesus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EddJesus&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddJesus&layout=compact&langs_count=7&theme=default"/>
-</div>
+### Currently learning Performance Improvements on High Load in Production environments
   
 <div style="display: inline_block"><br>
   <img align="center" alt="javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,6 +20,6 @@
  
 </div>
 
-- 🌱 I’m currently learning DDD
+- 🌱 I’m currently learning Performance Improvements on High Load in Production environments
 - 💬 Ask me about anything related to AWS
 - 📫 How to reach me: edusanto22@gmail.com / +5511944547545
